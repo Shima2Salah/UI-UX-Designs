@@ -1,4 +1,3 @@
 # UI-UX-Designs
-This repo contains different ui/ux designs designed by me
-My final project is a Diabetic hypertensive nutrition app
+This repo contains the final project( a Diabetic hypertensive nutrition app) UI design
 https://drive.google.com/drive/folders/1sPaVE9LahTea3P6YOe6-vCCkEnjZVcff?usp=sharing
